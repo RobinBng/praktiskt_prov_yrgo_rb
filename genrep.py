@@ -1,0 +1,1 @@
+print("Ei24 - genrep praktiskt prov ht25")
